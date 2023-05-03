@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -30,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2JPgRkB5mOUgUdC1R09z6FFm6Iv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Java_IDEA/IdeaProjects/Maven-demo",
+    "last_opened_file_path": "E:/Java_IDEA/IdeaProjects/Web-demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +71,7 @@
       <workItem from="1672324663630" duration="968000" />
       <workItem from="1672327316505" duration="1708000" />
       <workItem from="1672330530755" duration="286000" />
+      <workItem from="1682510557977" duration="185000" />
     </task>
     <servers />
   </component>
